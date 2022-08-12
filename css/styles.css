@@ -112,7 +112,7 @@ main h1 {
 }
 
 #latest-products {
-  width: 80%;
+  width: 65%;
   margin: 2rem auto;
 }
 
@@ -126,6 +126,7 @@ main h1 {
 }
 
 .food-item {
+  width: 500px;
   background-color: rgb(228, 206, 182);
   border-radius: 6px;
   overflow: hidden;
